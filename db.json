@@ -3,7 +3,7 @@
   "pypProjectName": "seanc",
   "s3BucketURL": "https://behr-image-input-bucket-west-production.s3.us-west-2.amazonaws.com/12...",
   "thumb": "data:image/png;ba...",
-  "bucketEdge": "https://behr-image-o..."
+  "bucketEdge": "https://behr-image-o...",
   "sharedImages": [
       "image1":"https://qa14.behr.com/binaries/content/gallery/behr-us-pro/pyptest/sample1.jpg",
       "image2":"https://qa14.behr.com/binaries/content/gallery/behr-us-pro/pyptest/sample1.jpg",
