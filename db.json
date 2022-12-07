@@ -1,7 +1,9 @@
 {
- "id":"100",
- "pypProjectName": "seanc",
- "s3BucketURL": "https://behr-image-input-bucket-west-production.s3.us-west-2.amazonaws.com/12...",
- "thumb": "data:image/png;ba...",
- "bucketEdge": "https://behr-image-o..."
+ "pypProject":{
+   "id":"100",
+  "pypProjectName": "seanc",
+  "s3BucketURL": "https://behr-image-input-bucket-west-production.s3.us-west-2.amazonaws.com/12...",
+  "thumb": "data:image/png;ba...",
+  "bucketEdge": "https://behr-image-o..."
+ }
 }
