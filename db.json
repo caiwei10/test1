@@ -5,10 +5,10 @@
   "thumb": "data:image/png;ba...",
   "bucketEdge": "https://behr-image-o...",
   "sharedImages": [
-      "image1":"https://qa14.behr.com/binaries/content/gallery/behr-us-pro/pyptest/sample1.jpg",
-      "image2":"https://qa14.behr.com/binaries/content/gallery/behr-us-pro/pyptest/sample1.jpg",
-      "image3":"https://qa14.behr.com/binaries/content/gallery/behr-us-pro/pyptest/sample1.jpg",
-      "image4":"https://qa14.behr.com/binaries/content/gallery/behr-us-pro/pyptest/sample1.jpg"
+   {"image1":"https://qa14.behr.com/binaries/content/gallery/behr-us-pro/pyptest/sample1.jpg"},
+   {"image2":"https://qa14.behr.com/binaries/content/gallery/behr-us-pro/pyptest/sample1.jpg"},
+   {"image3":"https://qa14.behr.com/binaries/content/gallery/behr-us-pro/pyptest/sample1.jpg"},
+   {"image4":"https://qa14.behr.com/binaries/content/gallery/behr-us-pro/pyptest/sample1.jpg"}
   ]
  }
 }
